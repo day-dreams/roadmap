@@ -1,7 +1,7 @@
-新的博客平台
+新的博客平台\$\$
 
-- [ ] `cpp`迭代器的实现
-- [ ] `mysql`主从复制原理
+- [x] `cpp`迭代器的实现
+- [x] `mysql`主从复制原理
 - [ ] `mysql`10 亿用户同时改微信号怎么办
 - [ ] `kafka`有什么特性
 - [ ] `rpc`一个成熟的 rpc 应该有哪些功能
@@ -14,4 +14,5 @@
 - [ ] `linux`内核的 namespace 是什么
 - [ ] `存储`kafka redis mysql es etcd mongo hdfs postgresql 分别适用于什么样的场景
 - [ ] `linux`中断的处理全过程
-- [ ] `es`怎么实现undo/cancel操作
+- [x] `es`怎么实现 undo/cancel 操作
+- [ ] 实现一个 hash 表吧

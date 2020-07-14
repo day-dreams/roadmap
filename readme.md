@@ -14,3 +14,4 @@
 - [ ] `linux`内核的 namespace 是什么
 - [ ] `存储`kafka redis mysql es etcd mongo hdfs postgresql 分别适用于什么样的场景
 - [ ] `linux`中断的处理全过程
+- [ ] `es`怎么实现undo/cancel操作

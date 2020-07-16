@@ -17,4 +17,7 @@
 - [x] `es`怎么实现 undo/cancel 操作
 - [ ] 实现一个 hash 表吧
 - [ ] `分段锁` 去了解一下java hashmap的分段锁
-- [ ] `redis` watch命令和乐观锁
+- [x] `redis` watch命令和乐观锁
+- [x] `gdb` gdb怎么工作的
+- [ ] `linux` select/poll/epoll机制复习一下
+- [ ] `c++` new/delete/malloc/free/operator new/operator new复习一下

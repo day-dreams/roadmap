@@ -21,3 +21,4 @@
 - [x] `gdb` gdb怎么工作的
 - [ ] `linux` select/poll/epoll机制复习一下
 - [ ] `c++` new/delete/malloc/free/operator new/operator new复习一下
+- [ ] `mysql` 8.10 Buffering and Caching，看[文档](https://dev.mysql.com/doc/refman/5.7/en/buffering-caching.html)怎么说的

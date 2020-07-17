@@ -21,4 +21,9 @@
 - [x] `gdb` gdb怎么工作的
 - [ ] `linux` select/poll/epoll机制复习一下
 - [ ] `c++` new/delete/malloc/free/operator new/operator new复习一下
+<<<<<<< HEAD
 - [ ] `mysql` 8.10 Buffering and Caching，看[文档](https://dev.mysql.com/doc/refman/5.7/en/buffering-caching.html)怎么说的
+=======
+- [ ] `MYSQL` buffer pool了解一下
+- [ ] `MYSQL` in查询/join查询的查询计划是什么样的，和postgresql有什么区别
+>>>>>>> 48257cd810d3d7735a6c0b6b61dd7529a997a763

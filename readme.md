@@ -21,3 +21,5 @@
 - [x] `gdb` gdb怎么工作的
 - [ ] `linux` select/poll/epoll机制复习一下
 - [ ] `c++` new/delete/malloc/free/operator new/operator new复习一下
+- [ ] `MYSQL` buffer pool了解一下
+- [ ] `MYSQL` in查询/join查询的查询计划是什么样的，和postgresql有什么区别

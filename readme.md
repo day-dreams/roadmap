@@ -21,9 +21,8 @@
 - [x] `gdb` gdb怎么工作的
 - [ ] `linux` select/poll/epoll机制复习一下
 - [ ] `c++` new/delete/malloc/free/operator new/operator new复习一下
-<<<<<<< HEAD
 - [ ] `mysql` 8.10 Buffering and Caching，看[文档](https://dev.mysql.com/doc/refman/5.7/en/buffering-caching.html)怎么说的
-=======
-- [ ] `MYSQL` buffer pool了解一下
-- [ ] `MYSQL` in查询/join查询的查询计划是什么样的，和postgresql有什么区别
->>>>>>> 48257cd810d3d7735a6c0b6b61dd7529a997a763
+- [x] `MYSQL` buffer pool了解一下
+  - 花里胡哨的配置能力，我估计根本没人用。不如多优化优化数据的组织方式，减少复杂查询
+- [x] `MYSQL` in查询/join查询/full scan的查询计划是什么样的，和postgresql有什么区别
+  - postgresql的资料所谈更少，这里就不去官方文档考证了。没有时间

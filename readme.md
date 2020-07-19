@@ -16,20 +16,19 @@
 - [ ] `linux`中断的处理全过程
 - [x] `es`怎么实现 undo/cancel 操作
 - [ ] 实现一个 hash 表吧
-- [ ] `分段锁` 去了解一下java hashmap的分段锁
-- [x] `redis` watch命令和乐观锁
-- [x] `gdb` gdb怎么工作的
-- [x] `linux` select/poll/epoll机制复习一下
-- [x] `c++` new/delete/malloc/free/operator new/operator new复习一下
+- [ ] `分段锁` 去了解一下 java hashmap 的分段锁
+- [x] `redis` watch 命令和乐观锁
+- [x] `gdb` gdb 怎么工作的
+- [x] `linux` select/poll/epoll 机制复习一下
+- [x] `c++` new/delete/malloc/free/operator new/operator new 复习一下
 - [ ] `mysql` 8.10 Buffering and Caching，看[文档](https://dev.mysql.com/doc/refman/5.7/en/buffering-caching.html)怎么说的
-- [x] `MYSQL` buffer pool了解一下
+- [x] `MYSQL` buffer pool 了解一下
   - 花里胡哨的配置能力，我估计根本没人用。不如多优化优化数据的组织方式，减少复杂查询
-- [x] `MYSQL` in查询/join查询/full scan的查询计划是什么样的，和postgresql有什么区别
-  - postgresql的资料所谈更少，这里就不去官方文档考证了。没有时间
-- [ ] `linux` 进程通信机制再回顾一下
-- [ ] `c++`  静态/动态库的区别
+- [x] `MYSQL` in 查询/join 查询/full scan 的查询计划是什么样的，和 postgresql 有什么区别
+  - postgresql 的资料所谈更少，这里就不去官方文档考证了。没有时间
+- [x] `linux` 进程通信机制再回顾一下
+- [x] `c++` 静态/动态库的区别
 - [ ] `操作系统` 各种同步机制，锁、信号量等
-- [ ] `直播` 回顾m3u8机制和基本的直播架构
-- [ ] `http` 安全保障和https 
+- [ ] `直播` 回顾 m3u8 机制和基本的直播架构
+- [x] `http` 安全保障和 https
 - [ ] `播放器` 基本原理
-  
